@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taran942
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on html css projects
+- 🌱 I’m currently learning javascript frameworks
+- 💞️ I’m looking to collaborate on html css and Js projects
 - 📫 How to reach me contact email reenaishurocks09@gmail.com
 
 <!---
